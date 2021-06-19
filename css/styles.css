@@ -675,7 +675,7 @@ code, pre {
 
     .footer .grid {
       grid-template-columns: repeat(1, 1fr);
-      margin-bottom: 150px;
+      /* margin-bottom: 150px; */
     }
 
     .footer h1{
